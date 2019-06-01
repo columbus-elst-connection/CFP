@@ -27,6 +27,7 @@ Below is a rough outline of the workshop.
 * Show and tell
 
 ### Who is your ideal audience?
+Our ideal audience are a group of people who want to sink their teeth in an interesting topic, learn about various techniques that enables them to explore L-system and are willing to leverage their own strengths to help other participants achieve a common goal; having fun exploring an alluring topic.
 
 ### Why are you excited to talk about this?
 
