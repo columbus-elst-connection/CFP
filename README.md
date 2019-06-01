@@ -43,6 +43,7 @@ Both presenters have prior experiece in creating and leading workshops.
 This workshop was specifically created with Rust Belt Rust in mind. We haven't presented it at other events, but we might do so.
 
 ### Are you from the Rust Belt?
+One of the presenters is from the Rust Belt.
 
 ### Contact information
 The submission form ask for contact information, which will not be commited to this repository.
