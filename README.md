@@ -67,6 +67,7 @@ No
 Boxy/Boxy
 
 ### T-shirt size
+L/L
 
 [RBR]: http://www.rust-belt-rust.com
 [coc]: https://rust-belt-rust.com/conduct/
