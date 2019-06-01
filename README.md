@@ -40,6 +40,7 @@ Being part of the journey seeing the lightbulb go on in peoples heads is a very 
 Both presenters have prior experiece in creating and leading workshops.
 
 ### Have you presented on this topic at other events? If so, where and when?
+This workshop was specifically created with Rust Belt Rust in mind. We haven't presented it at other events, but we might do so.
 
 ### Are you from the Rust Belt?
 
