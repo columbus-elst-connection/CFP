@@ -26,6 +26,9 @@ Below is a rough outline of the workshop.
 * Excercises to explore L-systems and various techniques
 * Show and tell
 
+### What format would work best for this talk?
+3 hour workshop
+
 ### Who is your ideal audience?
 Our ideal audience are a group of people who want to sink their teeth in an interesting topic, learn about various techniques that enables them to explore L-system and are willing to leverage their own strengths to help other participants achieve a common goal; having fun exploring an alluring topic.
 
