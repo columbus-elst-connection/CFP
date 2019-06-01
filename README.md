@@ -29,7 +29,12 @@ Below is a rough outline of the workshop.
 ### Who is your ideal audience?
 Our ideal audience are a group of people who want to sink their teeth in an interesting topic, learn about various techniques that enables them to explore L-system and are willing to leverage their own strengths to help other participants achieve a common goal; having fun exploring an alluring topic.
 
-### Why are you excited to talk about this?
+### Why are you excited to talk about this?. 
+Lindenmayer systems allow one to simply model a variety of beautiful forms. Note that simple does not mean easy! The contrast between the rich structure and level of formality of the L-system and the intricate details and naturalness of the forms it models is deeply pleasing.
+
+Furthermore, it allows one to study and learn about interesting topics suchs as languages, parsers and interpreters. These skills will expand the toolbox that is available to yourself in your day to day life.
+
+Being part of the journey seeing the lightbulb go on in peoples heads is a very satisfying experience.
 
 ### What is your previous speaking experience?
 
