@@ -61,6 +61,7 @@ Phil and Daan met each other at the very first Rust Belt Rust conference. Seekin
 https://avatars0.githubusercontent.com/u/44327574
 
 ### Will you need childcare?
+No
 
 ### T-shirt cut
 
