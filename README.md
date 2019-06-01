@@ -64,6 +64,7 @@ https://avatars0.githubusercontent.com/u/44327574
 No
 
 ### T-shirt cut
+Boxy/Boxy
 
 ### T-shirt size
 
