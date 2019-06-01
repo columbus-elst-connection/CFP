@@ -58,6 +58,7 @@ Read the code of conduct and adhere to it.
 Phil and Daan met each other at the very first Rust Belt Rust conference. Seeking each other's company to discuss a wide variety of topics, ranging from art, philosophy, software systems, politics and the best way to prepare a burger. Enjoying the dynamic and sharing their love for Rust and the Rust Belt Rust conference, Phil and Daan sought a topic to explore at this Rust belt Rust installment. They found it in the marvellous subject of Lindenmayer systems.
 
 ### URL to a headshot or avatar
+https://avatars0.githubusercontent.com/u/44327574
 
 ### Will you need childcare?
 
