@@ -18,6 +18,13 @@ We will not only play with L-systems, we will also learn techniques for expressi
 So come and learn how to model your favourite forms of nature.
 
 ### Notes for reviewers
+Our workshop will provide participants with material that will allow them to work through a guided set of excercises and projects. From this material and interations with the workshop leaders, participants will learn about L-systems, their use and techniques to create them.
+
+Below is a rough outline of the workshop.
+* Welcome
+* Introduction to L-systems
+* Excercises to explore L-systems and various techniques
+* Show and tell
 
 ### Who is your ideal audience?
 
