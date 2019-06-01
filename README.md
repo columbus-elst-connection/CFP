@@ -5,6 +5,7 @@ A response for Call For Paper (CFP).
 The outline of the proposal is modelled after the [Rust Belt Rust][RBR] call for paper.
 
 ### Talk Title
+Lindenmayer systems; modeling the natural world
 
 ### Talk Abstract
 
