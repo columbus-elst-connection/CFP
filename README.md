@@ -49,6 +49,7 @@ One of the presenters is from the Rust Belt.
 The submission form ask for contact information, which will not be commited to this repository.
 
 ### Do you consent to this conference recording your talk/presentation and then distributing the video on the internet with a CC-BY license?
+yes
 
 ### Do you agree to abide by the [code of conduct][coc]?
 Read the code of conduct and adhere to it.
