@@ -37,6 +37,7 @@ Furthermore, it allows one to study and learn about interesting topics suchs as 
 Being part of the journey seeing the lightbulb go on in peoples heads is a very satisfying experience.
 
 ### What is your previous speaking experience?
+Both presenters have prior experiece in creating and leading workshops.
 
 ### Have you presented on this topic at other events? If so, where and when?
 
