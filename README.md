@@ -8,11 +8,11 @@ The outline of the proposal is modelled after the [Rust Belt Rust][RBR] call for
 Lindenmayer systems; modeling the natural world
 
 ### Talk Abstract
-Nature has beautiful forms. From the cresents waves on the ocean, to the beautiful winges of certain butterflies. From the stripes and spots of animals to the branching and weaving of plants and trees.
+Nature has beautiful forms. From the cresents waves on the ocean, to the beautiful wings of certain butterflies. From the stripes and spots of animals to the branching and weaving of plants and trees.
 
 All these patterns seem intricate and complex. Often they can be modelled in a simple and effective way. Sometimes this model let's you learn something about nature.
 
-In this workshop we will explore _Lindenmayer systems_, or _L-systems_. These systems allow you to model various naturual forms such as plants, trees and certain algeas. Furthermore it offers an playinground for certain type of fractals.
+In this workshop we will explore _Lindenmayer systems_, or _L-systems_. These systems allow you to model various natural forms such as plants, trees and certain algeas. Furthermore it offers an playinground for certain type of fractals.
 We will not only play with L-systems, we will also learn techniques for expressing and rendering them. It are these techniques that will transit from the pleasant playground of the workshop into the toolbelt of the participant.
 
 So come and learn how to model your favourite forms of nature.
