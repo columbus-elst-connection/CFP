@@ -13,7 +13,8 @@ Nature has beautiful forms. From the cresents waves on the ocean, to the beautif
 All these patterns seem intricate and complex. Often they can be modelled in a simple and effective way. Sometimes this model let's you learn something about nature.
 
 In this workshop we will explore _Lindenmayer systems_, or _L-systems_. These systems allow you to model various natural forms such as plants, trees and certain algeas. Furthermore it offers an playinground for certain type of fractals.
-We will not only play with L-systems, we will also learn techniques for expressing and rendering them. It are these techniques that will transit from the pleasant playground of the workshop into the toolbelt of the participant.
+
+We will implement our own domain-specific language for expressing L-systems. We will have fun playing with L-systems and generating beautiful images. These techniques will transit from the pleasant playground of the workshop into the toolbelt of the participant.
 
 So come and learn how to model your favourite forms of nature.
 
